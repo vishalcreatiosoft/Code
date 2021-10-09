@@ -1,3 +1,6 @@
 This is notes file.
 
 I want to add notes here for simplicity.
+
+
+Currently I am learning nodejs and mongoDB for project...
