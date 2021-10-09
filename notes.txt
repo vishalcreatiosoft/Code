@@ -1,1 +1,3 @@
-TThis is notes file.
+This is notes file.
+
+I want to add notes here for simplicity.
